@@ -73,7 +73,7 @@ Os Testes foram realizados usando os seguintes algoritmos:
 
 | Model Name |Accuracy Mean | Precision Mean | Precision STD | Recall Mean | Recall STD | Precision@K Mean | Precision@K STD | Recall@K Mean | Recall@K STD |
 |------------|--------------|-----------------|--------------|-------------|------------|------------------|-----------------|---------------|--------------|
-GaussianNB|	0.7676|	0.6660|	0.0019|	0.9773|	0.0003	0.7344|	0.0020|	0.4137|	0.0011|
+GaussianNB|	0.7676|	0.6660|	0.0019|	0.9773|	0.0003|	0.7344|	0.0020|	0.4137|	0.0011|
 KNeighborsClassifier|	0.8427|	0.7609|	0.0022|	0.9521|	0.0009|	0.8843|	0.0025|	0.4982|	0.0014|
 GradientBoostingClassifier|	0.8236|	0.7470|	0.0016|	0.9234|	0.0014|	0.9230|	0.0033|	0.5200|	0.0019|
 RandomForestClassifier|	0.7828|	0.7014|	0.0022|	0.9066|	0.0016|	0.7993|	0.0040|	0.4503|	0.0022|
