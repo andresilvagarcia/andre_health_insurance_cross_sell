@@ -1,6 +1,6 @@
 ![question22](/img/insurance_all.jpg)
 
-# Insurance All Company
+# Green Shield - Health and Car Insurance
 
 **Aviso:** O seguinte contexto é completamente fictício, a empresa, o contexto, o CEO e as questões de negócios.
 
