@@ -1,4 +1,4 @@
-![question22](/images/Insurance.jpg)
+![question22](/img/insurance_all.jpg)
 
 # Insurance All Company
 
@@ -95,16 +95,12 @@ Ao utilizar 3,28% dos dados de validação, 2 mil ligações da equipe de vendas
 ## E se a capacidade da equipe de vendas aumentar para 4.000 chamadas?
 Ao utilizar 6,56% dos dados de validação, 2 mil ligações da equipe de vendas, o modelo seria capaz de identificar 20,38% de pessoas interessadas em adquirir o seguro.
 
-![question21](/images/Cumulative_gain@4k.png)
-
-Ao realizar 40 mil ligações, o modelo proposto é cerca de 1,6 vezes melhor do que a escolha aleatória.
-
-![question22](/images/Lift_curve@40k.png)
+![question21](/img/cumulative_gain@4k.png)
 
 # Quantas ligações a equipe de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir seguro de automóveis?
 Para atingir 80% dos clientes interessados seriam necessárias pelo menos 19250 ligações.
 
-![question22](/images/calls_to80.png)
+![question22](/img/calls_to80.png)
                       
 #  Conclusão
 Ao Final deste projeto foi possivel compreender o fenômeno Learning to Rank (LTR) e como é utilizada usada para aperfeiçoar os resultados da pesquisa com base em coisas como padrões de uso reais. Existem três abordagens para LTR sendo elas Pointwise, Listwise e Pairwise (utilizada neste projeto).
