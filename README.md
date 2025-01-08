@@ -4,7 +4,7 @@
 
 **Aviso:** O seguinte contexto é completamente fictício, a empresa, o contexto, o CEO e as questões de negócios.
 
-A Insurance All é uma empresa que oferece seguro saúde para seus clientes e a equipe de produtos está analisando a possibilidade de oferecer aos segurados um novo produto: o seguro de automóveis.
+A Green Shield é uma empresa que oferece seguro saúde para seus clientes e a equipe de produtos está analisando a possibilidade de oferecer aos segurados um novo produto: o seguro de automóveis.
 
 Uma empresa de seguros que oferece seguro de saúde, contudo, a empresa está a fim de desenvolver um novo produto, no caso um seguro de carros. Contudo, o time de produtos está a fim de decidir se é viável ou não desenvolver esse novo produto para a empresa, o quanto esse produto traria de renda e para quais pessoas oferecer. Com a base de dados em mãos, foi realizada uma pesquisa entre as pessoas que já possuíam um seguro e se elas comprariam este novo produto. Contudo, existem novos clientes que não participaram desta pesquisa, e o time de produto gostaria de oferecer este novo produto para novos clientes. Com base nisso, o time de produto sugeriu a contratação de um cientista de dados para poder ser feita uma análise a fim de responder se essas novas pessoas comprariam o seguro de automóvel ou não.
 
